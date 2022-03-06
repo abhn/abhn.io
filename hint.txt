@@ -1,1 +1,15 @@
-eqqmp://ttt.xjxwlk.ab/am/Y07W9O9WIM/
+Almost there. The final piece piece of this puzzle will take you to a familiar website.
+
+On this website, you shall see your reward. But to get the reward, you must find the secret sauce.
+
+Your last task is to decrypt the following message:
+
+!--),QFF000Ex&x3('E{|F{)FYGNqPiPqcgF
+
+Once you think you've decrypted the message, enter it at the end of this link and try to access it: https://gjmjsc32ph.execute-api.eu-central-1.amazonaws.com/default/check-answer?answer=
+
+For example: https://gjmjsc32ph.execute-api.eu-central-1.amazonaws.com/default/check-answer?answer=the answer here
+
+If you get a "Wrong answer, try again!", well, better keep looking. 
+
+Final step will appear when you're ready...
