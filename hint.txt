@@ -4,7 +4,7 @@ You're almost there. The final piece piece of this puzzle will take you to a fam
 
 On this website, you shall see your reward. But to get the reward, you must find the secret sauce.
 
-Your last task is to decrypt the following message:
+Your last task is to decrypt the following cipher, which is "rotated at a personal number we're both familiar with" -- 
 
 !--),QFF000Ex&x3('E{|F{)FYGNqPiPqcgF
 
